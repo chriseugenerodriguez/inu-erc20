@@ -20,13 +20,13 @@
     "@uniswap/v2-core": "^1.0.1",
     "@uniswap/v2-periphery": "^1.1.0-beta.0",
     "solc": "^0.8.4",
-    "truffle": "^5.3.8"
+    "truffle": "^5.8.3"
   },
   "devDependencies": {
     "@openzeppelin/contracts": "^4.1.0",
     "@openzeppelin/contracts-ethereum-package": "^3.0.0",
     "@openzeppelin/upgrades": "^2.8.0",
-    "@truffle/hdwallet-provider": "^1.4.0",
+    "@truffle/hdwallet-provider": "^2.1.10",
     "eslint": "^7.27.0",
     "ethlint": "^1.2.5",
     "ganache-cli": "^6.12.2",
